@@ -41,7 +41,57 @@ This repo contains the projects I am working on while learning HTML5 &amp; CSS
     Subjects - 
     Branch - 
   
-9 Projcet name: Corn (Bread
+10 Projcet name: Corn (Bread
+    Discription - 
+    Subjects - 
+    Branch - 
+    
+11 Projcet name: Baguette
+    Discription - 
+    Subjects - 
+    Branch - 
+
+12 Projcet name: Grissini
+    Discription - 
+    Subjects - 
+    Branch - 
+    
+13 Projcet name: Challah
+    Discription - 
+    Subjects - 
+    Branch - 
+    
+14 Projcet name: Brioche
+    Discription - 
+    Subjects - 
+    Branch - 
+    
+15 Projcet name: Ciabatta
+    Discription - 
+    Subjects - 
+    Branch -     
+    
+16 Projcet name: Croissant
+    Discription - 
+    Subjects - 
+    Branch -     
+    
+17 Projcet name: Bagel
+    Discription - 
+    Subjects - 
+    Branch -     
+    
+18 Projcet name: Naan
+    Discription - 
+    Subjects - 
+    Branch -     
+    
+19 Projcet name: Tortilla
+    Discription - 
+    Subjects - 
+    Branch -    
+    
+20 Projcet name: Pumpernickel
     Discription - 
     Subjects - 
     Branch - 
